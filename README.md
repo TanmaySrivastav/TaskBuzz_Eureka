@@ -1,3 +1,5 @@
+# Spring Cloud Netflix Eureka Server for ToDoNotificationSystem Microservices
+
 # Introduction 
 This project serves as a Eureka Server for the ToDoNotification microservices architecture. The main objective is to facilitate service discovery among the various microservices within the ToDoNotification project. By using the Spring Boot Netflix Eureka Server, clients can register themselves with this server, making it easier for them to locate and communicate with each other in a scalable and efficient manner.
 
